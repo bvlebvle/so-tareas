@@ -1,0 +1,10 @@
+vale
+mkdir c1
+mkdir c2
+cd c1
+mkdir c3
+cd c3
+mkdir c4
+cd c1
+cd root
+ls -R
